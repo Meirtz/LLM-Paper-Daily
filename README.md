@@ -9,16 +9,16 @@ Welcome to the **Awesome LLM Research** repository! This project curates a list 
 ### 2024-10-09
 
 ### 1. [Title:
-          Revisiting the Superficial Alignment Hypothesis](https://arxiv.org/pdf/2410.03717)
-**Summary**: The paper challenges the Superficial Alignment Hypothesis by demonstrating that post-training with increasing fine-tuning examples significantly improves language model performance across various tasks, including mathematical reasoning and multihop reasoning. The study reveals that model performance scales as a power law with the number of fine-tuning examples, indicating that post-training is crucial for enhancing reasoning abilities and integrating new knowledge, contrary to the hypothesis's claims.
+          Human Bias in the Face of AI: The Role of Human Judgement in AI Generated Text Evaluation](https://arxiv.org/pdf/2410.03723)
+**Summary**: The study examines how human biases influence the perception of AI-generated text, finding that even when AI and human-generated content are indistinguishable, humans prefer content labeled as "Human Generated." This bias persists even when labels are swapped, highlighting the need to address these cognitive biases to improve human-AI collaboration, particularly in creative domains.
 
 ### 2. [Title:
-          Performance Evaluation of Tokenizers in Large Language Models for the Assamese Language](https://arxiv.org/pdf/2410.03718)
-**Summary**: The paper evaluates the performance of tokenizers in five state-of-the-art large language models for the Assamese language, highlighting the importance of tokenizer training in deep learning models. The study finds that the SUTRA tokenizer from Two AI performs the best with an average Normalized Sequence Length (NSL) of 0.45, followed by GPT-4o from Open AI with an NSL of 0.54, while the other models, Gemma
+          Realtime, multimodal invasive ventilation risk monitoring using language models and BoXHED](https://arxiv.org/pdf/2410.03725)
+**Summary**: The paper introduces a novel approach to real-time invasive ventilation (iV) risk monitoring in intensive care units (ICUs) by integrating clinical notes through language models, enhancing the traditional reliance on tabular data. The proposed method achieves superior performance metrics, including an AUROC of 0.86, AUC-PR of 0.35, and AUCt up to 0.86, demonstrating improved lead time in flagging iV risks. This integration of clinical notes and language
 
 ### 3. [Title:
-          Thematic Analysis with Open-Source Generative AI and Machine Learning: A New Method for Inductive Qualitative Codebook Development](https://arxiv.org/pdf/2410.03721)
-**Summary**: The paper introduces the Generative AI-enabled Theme Organization and Structuring (GATOS) workflow, which utilizes open-source generative text models and machine learning techniques to facilitate thematic analysis in social science research. Through three case studies, the authors demonstrate that the GATOS workflow can effectively inductively create codebooks similar to traditional thematic analysis methods, highlighting its potential as a new approach for qualitative research.
+          Neurosymbolic AI approach to Attribution in Large Language Models](https://arxiv.org/pdf/2410.03726)
+**Summary**: The paper proposes a Neurosymbolic AI (NesyAI) approach to improve attribution in large language models (LLMs), addressing issues like hallucinations, biases, and unreliable sources. By combining neural networks with structured symbolic reasoning, NesyAI aims to provide more transparent, interpretable, and reliable attribution methods, enhancing the factual accuracy and adaptability of LLM outputs.
 
 
 
