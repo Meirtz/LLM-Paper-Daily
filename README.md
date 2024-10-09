@@ -9,16 +9,16 @@ Welcome to the **Awesome LLM Research** repository! This project curates a list 
 ### 2024-10-09
 
 ### 1. [Title:
-          FaithEval: Can Your Language Model Stay Faithful to Context, Even If "The Moon is Made of Marshmallows"](https://arxiv.org/pdf/2410.03727)
-**Summary**: The paper introduces FaithEval, a comprehensive benchmark designed to evaluate the faithfulness of large language models (LLMs) and retrieval-augmented generation (RAG) systems in handling unanswerable, inconsistent, and counterfactual contexts. The benchmark includes 4.9K high-quality problems and reveals that even advanced models frequently struggle to maintain faithfulness to the given context, highlighting the ongoing challenges in ensuring reliable model performance.
+          Revisiting the Superficial Alignment Hypothesis](https://arxiv.org/pdf/2410.03717)
+**Summary**: The paper challenges the Superficial Alignment Hypothesis by demonstrating that post-training with increasing fine-tuning examples significantly improves language model performance across various tasks, contrary to the hypothesis's claim that post-training merely adjusts style and format. The study reveals a power law relationship between post-training examples and task performance, indicating that models can integrate new knowledge and improve reasoning abilities with more fine-tuning, thus suggesting the hypothesis oversimplifies the impact of post-training.
 
 ### 2. [Title:
-          Progress Report: Towards European LLMs](https://arxiv.org/pdf/2410.03730)
-**Summary**: The paper presents preliminary results from the OpenGPT-X project, which has developed two multilingual Large Language Models (LLMs) to support all 24 official European Union languages. These models, trained on a dataset with 60% non-English content and optimized with a custom multilingual tokenizer, aim to overcome the limitations of existing LLMs that primarily focus on English. The models show competitive performance on multilingual benchmarks, including European versions of ARC, HellaSwag, MMLU,
+          Performance Evaluation of Tokenizers in Large Language Models for the Assamese Language](https://arxiv.org/pdf/2410.03718)
+**Summary**: The paper evaluates the performance of tokenizers in five state-of-the-art large language models for the Assamese language, highlighting the importance of tokenizer training in deep learning models. The study finds that the SUTRA tokenizer from Two AI performs the best with an average Normalized Sequence Length (NSL) of 0.45, followed by GPT-4o from Open AI with an NSL of 0.54, while the others, including Gemma
 
 ### 3. [Title:
-          Unsupervised Human Preference Learning](https://arxiv.org/pdf/2410.03731)
-**Summary**: The paper introduces a novel method for unsupervised human preference learning by using small parameter models as preference agents to generate natural language rules that guide a larger pre-trained model, enabling efficient personalization without fine-tuning the large model. Experimental results show significant improvement over baseline methods, suggesting a promising approach for personalized language model applications.
+          Thematic Analysis with Open-Source Generative AI and Machine Learning: A New Method for Inductive Qualitative Codebook Development](https://arxiv.org/pdf/2410.03721)
+**Summary**: The paper introduces the Generative AI-enabled Theme Organization and Structuring (GATOS) workflow, which utilizes open-source generative text models and machine learning techniques to facilitate thematic analysis in social science research. Through three case studies, the authors demonstrate that the GATOS workflow can effectively inductively create codebooks that closely align with traditional thematic analysis methods, suggesting the potential of AI in qualitative research.
 
 
 
